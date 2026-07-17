@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 Era uma noite de muito vento, Paulo andava pela floresta com seus amigos
  quando encontaram um tesouro, em uma sacola colorida com glitter.
 Ao abrir a sacola, viu um monte de nada enrolado num pano com muito glitter e poeira,
 sem saber o que aquilo significava, pensaram que era do rei Unicornio, decidiram larga aquilo,
 e contiruaram andando.
+=======
+Rian e seus amigos continuaram a andar, apos andarem muito em uma floresta acharam
+uma casa na arvore, eles a acharam muito bonita e quiseram adentrar nela, tiveram
+que subir pelas escadas.
+Um por vez foram adentrando na casa na arvore, encontraram varias camas e ficaram
+por la mesmo.
+Fim.
+>>>>>>> murilo
